@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="linear_layout_without_weight">Linear Layout (Without Weight)</string>
+    <string name="button_1">Button 1</string>
+    <string name="button_2">Button 2</string>
+    <string name="button_3">Button 3</string>
+    <string name="button_4">Button 4</string>
+
+</resources>
